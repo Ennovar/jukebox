@@ -2,8 +2,8 @@
 
 - Spotify 0.9.x for Linux
 - Enviornment Variables
-    - HUBOT_SLACK_TOKEN=<token from Slack bot user API>
-    - HUBOT_SPOTIFY_SLACK_SUPPORT=<true/false>
+    - HUBOT_SLACK_TOKEN=\<token from Slack bot user API>
+    - HUBOT_SPOTIFY_SLACK_SUPPORT=\<true/false>
 
 1) Open terminal  
 2) Run spotify  
