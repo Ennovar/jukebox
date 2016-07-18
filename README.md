@@ -5,11 +5,11 @@
     - HUBOT_SLACK_TOKEN
     - HUBOT_SPOTIFY_SLACK_SUPPORT
 
-1) Open terminal
-2) Run spotify
-3) Open 2nd terminal
-4) cd into jukebox folder
-5) Run bin/hubot -a slack
+1) Open terminal  
+2) Run spotify  
+3) Open 2nd terminal  
+4) cd into jukebox folder  
+5) Run bin/hubot -a slack  
 
 # General hubot README for jukebox
 
